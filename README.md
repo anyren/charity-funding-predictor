@@ -4,12 +4,14 @@
 In this assignment, we were tasked with building a neural network to predict whether a charity will successful with funding received from "Alphabet Soup". 
 
 ## Results
-Summary of the initial model
+### Summary of the initial model  
+
 !["Initial Model"](Images/initial_model.png)
 
 After running this configuration of the initial model, I achieved an accuracy of 73.18%.
 
-Summary of the optimized moddel
+### Summary of the optimized model  
+
 !["Optimized Model"](Images/optimized_model.png)
 
 The highest accuracy I achieved from various attempts at optimizing the initial model was 73.27%, which used the above configuration.
