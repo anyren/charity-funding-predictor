@@ -1,20 +1,20 @@
 # Charity Funding Predictor
 
 ## Overview
-In this assignment, we were tasked with building a neural network to predict whether a charity will successful with funding received from "Alphabet Soup". 
+In this assignment, we were tasked with building a neural network to predict whether a charity will successful with funding received from the non-profit foundation "Alphabet Soup". The source data used to train the model contains records of past charities funded by the organization and whether or not the money was used successfully. 
 
 ## Results
 ### Summary of the initial model  
 
 !["Initial Model"](Images/initial_model.png)
 
-After running this configuration of the initial model, I achieved an accuracy of 73.18%.
+After running this configuration of the initial model, I achieved an accuracy of 73.18%. Code can be found in the `charity_funding_predictor.ipynb` notebook in this repo, which is also accessible [on Google Collab](https://colab.research.google.com/drive/1WBt-ElxhuOJto9fcZMN8fNk2qENH2d3S?usp=sharing).
 
 ### Summary of the optimized model  
 
 !["Optimized Model"](Images/optimized_model.png)
 
-The highest accuracy I achieved from various attempts at optimizing the initial model was 73.27%, which used the above configuration.
+The highest accuracy I achieved from various attempts at optimizing the initial model was 73.27%, which used the above configuration. Code can be found in the `AlphabetSoupCharity_Optimization.ipynb` notebook in this repo, which is also accessible [on Google Collab](https://colab.research.google.com/drive/1Xkf0Y6dWo4TaJQ_OIBWZUzO5dyXHdmNl?usp=sharing).
 
 ### Data Preprocessing
 The source data contains the following fields:
